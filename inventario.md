@@ -1,7 +1,8 @@
 2111031
 2123537
 # componenti
-[processori](processori.md)
-[schede madri](schede_madri.md)
+[processori](componenti/processori.md)
+[schede madri](componenti/schede_madri.md)
 # periferiche
+[tastiere](periferiche/tastiere.md)
 elettronica padovana
