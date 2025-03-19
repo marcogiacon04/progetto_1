@@ -5,4 +5,6 @@
 [schede madri](componenti/schede_madri.md)
 # periferiche
 [tastiere](periferiche/tastiere.md)
+[mouse](periferiche/muouse.md)
+>>>>>>> feature/mouse
 elettronica padovana
