@@ -5,3 +5,4 @@ processori(processori.md)
 =======
 schede madri(schede_madri.md)
 >>>>>>> feature/schede_madri
+elettronica padovana
